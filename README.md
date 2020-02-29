@@ -1,5 +1,5 @@
 # python_practice
-Collection of files produced while learning Python
+Collection of files I produced while learning Python online and at local workshops.
 
 ## my_button.py
 A short file that uses lambda function to display a message to yourself using tkinter, and when you click on it, the reminder also appears in the console.
