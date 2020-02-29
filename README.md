@@ -1,4 +1,4 @@
-# python_practice
+# Python practice files
 Collection of files I produced while learning Python online and at local workshops.
 
 ## my_button.py
